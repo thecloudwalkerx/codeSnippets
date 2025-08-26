@@ -18,22 +18,34 @@ Here you'll find all the C++ code snippets I've practiced over time. This is a p
 
 Below is a list of the current C++ snippets available. I’ll keep expanding this as I continue practicing:
 
-### 🔢 Algorithms & Math
-- Fibonacci Series – Generate Fibonacci numbers efficiently
-- Check Prime Number – Verify if a number is prime
-- Count Divisors – Count the number of divisors of a number
-- Sum of Prime Factors – Factorize and sum all prime factors
+### Basic Number Theory & Simple Calculations 🔢
+- Fibonacci Series
+- Check Prime Number
+- Count Divisors of a Number
+- Sum of Prime Factors
+- Calculate the Area of a Trapezium
 
-### 📏 Geometry
-- Calculate the Area of a Trapezium – Basic geometry calculation
+### Array Basics 📏
+- Calculate the Sum of all Elements in an Array using Nested Loops
+- Finding Maximum Element in an Array
+- Find the Smallest Element in an Array
+- Reverse an Array
+- Search an Element in an Array
+- Linear Search Algorithm
 
-### 💻 Data Handling
-- Sum of All Elements in an Array – Aggregate array elements
-- Array Sorting – Simple sorting implementations (Bubble, Selection, etc.)
+### Array Advanced Manipulations 💻
+- Remove Duplicate Elements from an Array
+- Find the First Repeated Element in an Array
+- Remove Elements from Array
+- Merge Two Arrays
+- Binary Search Algorithm
+- Check if a Sub Array with a Given Sum Exists
 
-### 🔧 Utilities
-- String Reversal – Reverse a string
-- Palindrome Check – Determine if a string or number is a palindrome
+### Classic Greedy / Optimization Problems 🏆
+- Fractional Knapsack
+- Activity Selection
+- Coin Changing Problem
+- Job Sequencing Problem
 
 ---
 
