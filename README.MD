@@ -52,7 +52,7 @@ Below is a list of the current C++ snippets available. I’ll keep expanding thi
 ## 📌 How to Use
 
 1. Clone this branch:
-   git clone -b C++ https://github.com/<your-username>/codeSnippets.git
+   git clone -b C++ https://github.com/thecloudwalkerx/codeSnippets.git
 2. Navigate to the snippet you want to run
 3. Compile and execute using your preferred compiler:
    g++ snippet_name.cpp -o output
