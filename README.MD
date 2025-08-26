@@ -74,8 +74,8 @@ Feel free to fork and add your own snippets! Pull requests are welcome if you wa
 ## 📌 Connect With Me
 
 If you want to discuss these snippets or suggest improvements:
-- GitHub: https://github.com/<your-username>
-- LinkedIn: https://www.linkedin.com/in/<your-username>
+- GitHub: https://github.com/thecloudwalkerx
+- LinkedIn: https://www.linkedin.com/in/thecloudwalkerx
 
 ---
 
