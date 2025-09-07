@@ -54,7 +54,7 @@ int main()
         cout << endl;
     }
 
-    cout << "\nBinary Table (Keep):\n";
+    cout << "\nBinary Table:\n";
     for (int i = 0; i <= n; i++)
     {
         for (int w = 0; w <= W; w++)
